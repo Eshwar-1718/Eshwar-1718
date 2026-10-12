@@ -6,19 +6,37 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode&perline=7" alt="Technical skills" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
 </p>
 
-<p align="center">
+### 📊 Data & Machine Learning
+
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
----
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="HTML and CSS" />
+</p>
+
+### 🚀 Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" alt="Git, GitHub, and VS Code" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
 
 ## 🧠 Data Structures & Algorithms
 
