@@ -2,19 +2,14 @@
 
 ### B.Tech Data Science Student | Aspiring Software Developer
 
-I'm interested in **Software Development, Data Analytics, and Machine Learning**. I enjoy solving problems, working with data, and building practical applications.
-
-- 🔭 Working on: **CineVerse — Movie, Anime & Series Discovery**
-- 🌱 Learning: **DSA with Python, SQL, Machine Learning, Django**
-- 🎯 Interested in: **Software Engineering and Data Science**
-- 📍 Based in India
+I'm interested in **Software Development, Data Analytics, and Machine Learning**. I enjoy solving coding problems, analyzing data, and building practical applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,django,html,css,js,git,github,vscode&perline=10" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode&perline=9" alt="Technical skills" />
 </p>
 
 <p align="center">
@@ -22,37 +17,6 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 CineVerse</h3>
-      <p>Movie, anime and series discovery platform with user accounts, watchlists and TMDB API integration.</p>
-      <p><strong>Technologies:</strong> Python, Django, SQLite, TMDB API</p>
-    </td>
-    <td width="50%">
-      <h3>📊 UAC System Capacity Analytics</h3>
-      <p>Analytics project for studying system capacity, operational load, trends and forecasting.</p>
-      <p><strong>Technologies:</strong> Python, Pandas, Streamlit</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🍬 Nassau Candy Profitability Analytics</h3>
-      <p>Business analytics dashboard for examining product profitability, margins and performance.</p>
-      <p><strong>Technologies:</strong> Python, Pandas, Streamlit</p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Technova</h3>
-      <p>A web development project built with HTML.</p>
-      <p><strong>Technologies:</strong> HTML</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -68,23 +32,53 @@ Currently practicing DSA using Python.
 - Trees and Graphs
 - Dynamic Programming
 
----
+## 🌱 Currently Learning
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshwar-1718&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-1718&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
----
+- Data Structures and Algorithms using Python
+- SQL and Data Analytics
+- Machine Learning fundamentals
 
 ## 🎯 Career Interests
 
-Software Development • Data Analytics • Data Science • Machine Learning
+- Software Development
+- Data Analytics
+- Data Science
+- Machine Learning
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 <a href="https://github.com/Eshwar-1718/UAC-System-Capacity-Analytics">UAC System Capacity Analytics</a></h3>
+      <p>Analyze system capacity, operational load, trends, and forecasting.</p>
+      <p><strong>Technologies:</strong> Python, Pandas, Streamlit</p>
+      <a href="https://github.com/Eshwar-1718/UAC-System-Capacity-Analytics">View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>🍬 <a href="https://github.com/Eshwar-1718/nassau-candy-profitability-analytics">Nassau Candy Profitability Analytics</a></h3>
+      <p>Explore product profitability, margins, and business performance.</p>
+      <p><strong>Technologies:</strong> Python, Pandas, Streamlit</p>
+      <a href="https://github.com/Eshwar-1718/nassau-candy-profitability-analytics">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/Eshwar-1718/Technova">Technova</a></h3>
+      <p>A web development project built with HTML.</p>
+      <p><strong>Technologies:</strong> HTML</p>
+      <a href="https://github.com/Eshwar-1718/Technova">View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>🎬 CineVerse</h3>
+      <p>A movie, anime, and series discovery platform under development.</p>
+      <p><strong>Technologies:</strong> Python, Django, SQLite, TMDB API</p>
+      <p><em>Repository link will be added after publishing to GitHub.</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,14 +86,21 @@ Software Development • Data Analytics • Data Science • Machine Learning
 
 <p align="center">
   <a href="https://github.com/Eshwar-1718">
-    <img src="https://img.shields.io/badge/GitHub-Eshwar--1718-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Eshwar--1718-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
 </p>
 
-<!-- Add your LinkedIn URL and resume link here when ready. -->
+<!-- Add your LinkedIn and resume links when ready. -->
 
 ---
 
+## 📊 GitHub Activity & Language Statistics
+
 <p align="center">
-  <i>"Build. Learn. Improve. Repeat."</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eshwar-1718&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-1718&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <i>Build • Learn • Improve • Repeat</i>
 </p>
