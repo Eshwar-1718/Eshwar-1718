@@ -9,7 +9,7 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode&perline=9" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode&perline=7" alt="Technical skills" />
 </p>
 
 <p align="center">
