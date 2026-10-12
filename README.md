@@ -63,38 +63,46 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 - Data Science
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>📊 <a href="https://github.com/Eshwar-1718/UAC-System-Capacity-Analytics">UAC System Capacity Analytics</a></h3>
-      <p>Analyze system capacity, operational load, trends, and forecasting.</p>
-      <p><strong>Technologies:</strong> Python, Pandas, Streamlit</p>
-      <a href="https://github.com/Eshwar-1718/UAC-System-Capacity-Analytics">View Project →</a>
+      <h3>📊 UAC System Capacity Analytics</h3>
+      <p>Analyze system capacity and visualize key metrics to support data-driven decisions.</p>
+      <p><strong>Focus:</strong> Data Analytics</p>
+      <a href="https://github.com/Eshwar-1718/UAC-System-Capacity-Analytics">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View UAC project" />
+      </a>
     </td>
     <td width="50%">
-      <h3>🍬 <a href="https://github.com/Eshwar-1718/nassau-candy-profitability-analytics">Nassau Candy Profitability Analytics</a></h3>
-      <p>Explore product profitability, margins, and business performance.</p>
-      <p><strong>Technologies:</strong> Python, Pandas, Streamlit</p>
-      <a href="https://github.com/Eshwar-1718/nassau-candy-profitability-analytics">View Project →</a>
+      <h3>🍬 Nassau Candy Profitability Analytics</h3>
+      <p>Explore sales and profitability data to identify business trends and insights.</p>
+      <p><strong>Focus:</strong> Business Intelligence</p>
+      <a href="https://github.com/Eshwar-1718/nassau-candy-profitability-analytics">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Nassau project" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌐 <a href="https://github.com/Eshwar-1718/Technova">Technova</a></h3>
-      <p>A web development project built with HTML.</p>
-      <p><strong>Technologies:</strong> HTML</p>
-      <a href="https://github.com/Eshwar-1718/Technova">View Project →</a>
+      <h3>🌐 Technova</h3>
+      <p>A web development project showcasing website structure and design.</p>
+      <p><strong>Focus:</strong> Web Development</p>
+      <a href="https://github.com/Eshwar-1718/Technova">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Technova project" />
+      </a>
     </td>
     <td width="50%">
       <h3>🎬 CineVerse</h3>
-      <p>A movie, anime, and series discovery platform under development.</p>
-      <p><strong>Technologies:</strong> Python, Django, SQLite, TMDB API</p>
-      <p><em>Repository link will be added after publishing to GitHub.</em></p>
+      <p>A movie, anime, and series discovery platform currently under development.</p>
+      <p><strong>Focus:</strong> Web Application Development</p>
+      <p><em>Coming soon to GitHub</em></p>
     </td>
   </tr>
 </table>
+
 
 ---
 
