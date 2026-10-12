@@ -109,11 +109,12 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 
 
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kanaboina-eshwar-657741374/">
-    <img src="https://img.shields.io/badge/LinkedIn-kanaboina--eshwar--657741374-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/KanaboinaEshwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-KanaboinaEshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eshwarkanaboina18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-eshwarkanaboina18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -125,13 +126,15 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 
 ---
 
+
 ## 📊 GitHub Activity & Language Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eshwar-1718&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-1718&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshwar-1718&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-1718&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
 </p>
 
 <p align="center">
   <i>Build • Learn • Improve • Repeat</i>
 </p>
+
