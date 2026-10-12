@@ -130,6 +130,8 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 ---
 
 
+---
+
 ## 📊 GitHub Activity & Language Statistics
 
 <p align="center">
