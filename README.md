@@ -100,19 +100,19 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 
 
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanaboina-eshwar-657741374/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-kanaboina--eshwar--657741374-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eshwarkanaboina18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-eshwarkanaboina18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Eshwar-1718">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Eshwar--1718-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  📧 **Email:** <a href="mailto:eshwarkanaboina18@gmail.com">eshwarkanaboina18@gmail.com</a>
 </p>
 
 ---
