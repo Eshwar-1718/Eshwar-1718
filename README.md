@@ -38,27 +38,27 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 </p>
 
 
+
 ## 🧠 Data Structures & Algorithms
 
-Currently practicing DSA using Python.
-
+- Practicing DSA using Python
 - Arrays and Strings
 - Searching and Sorting
-- Linked Lists
-- Stacks and Queues
+- Linked Lists, Stacks, and Queues
 - Recursion and Binary Search
 - Trees and Graphs
 - Dynamic Programming
 
 ## 🌱 Currently Learning
 
-- Data Structures and Algorithms using Python
-- SQL and Data Analytics
-- Machine Learning fundamentals
+- Strengthening Python programming
+- Solving coding problems on LeetCode
+- Learning SQL and Data Analytics
+- Exploring Machine Learning fundamentals
 
 ## 🎯 Career Interests
 
-- Software Development
+- Software Development Engineering (SDE)
 - Data Analytics
 - Data Science
 - Machine Learning
