@@ -115,13 +115,13 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/KanaboinaEshwar/">
-    <img src="https://img.shields.io/badge/LinkedIn-KanaboinaEshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-KanaboinaEshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
   <a href="mailto:eshwarkanaboina18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-eshwarkanaboina18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-eshwarkanaboina18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Gmail" />
   </a>
   <a href="https://github.com/Eshwar-1718">
-    <img src="https://img.shields.io/badge/GitHub-Eshwar--1718-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Eshwar--1718-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub" />
   </a>
 </p>
 
