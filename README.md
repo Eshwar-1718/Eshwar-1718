@@ -112,10 +112,11 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 
 
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/KanaboinaEshwar/">
+  <a href="https://www.linkedin.com/in/kanaboinaeshwar">
     <img src="https://img.shields.io/badge/LinkedIn-KanaboinaEshwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eshwarkanaboina18@gmail.com">
