@@ -61,8 +61,6 @@ I'm interested in **Software Development, Data Analytics, and Machine Learning**
 - Software Development Engineering (SDE)
 - Data Analytics
 - Data Science
-- Machine Learning
-
 ---
 
 ## 🚀 Featured Projects
